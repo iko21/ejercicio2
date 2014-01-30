@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1391036732 source:/home/mac21/Desktop/programaing/ejercicio2/Personaje.cpp
+	"Personaje.h"
+
+1391019160 /home/mac21/Desktop/programaing/ejercicio2/Personaje.h
+	<iostream>
+
+1391036671 source:/home/mac21/Desktop/programaing/ejercicio2/main.cpp
+	<iostream>
+	"Personaje.h"
+	"Curador.h"
+	"Tanque.h"
+
+1391018911 source:/home/mac21/Desktop/programaing/ejercicio2/Curador.cpp
+	"Curador.h"
+
+1391019000 /home/mac21/Desktop/programaing/ejercicio2/Curador.h
+	"Personaje.h"
+
+1391035662 source:/home/mac21/Desktop/programaing/ejercicio2/Tanque.cpp
+	"Tanque.h"
+
+1391035565 /home/mac21/Desktop/programaing/ejercicio2/Tanque.h
+	"Personaje.h"
+
+1391104709 source:/home/mac21/Desktop/programaing/ejercicio2/MagoOscuro.cpp
+	"MagoOscuro.h"
+
+1391104709 /home/mac21/Desktop/programaing/ejercicio2/MagoOscuro.h
+	"Personaje.h"
+
